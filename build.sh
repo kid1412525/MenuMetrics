@@ -14,7 +14,7 @@ CONFIGURATION="release"
 PRODUCT="MenuMetrics"
 BUNDLE_ID="dev.local.MenuMetrics"
 DISPLAY_NAME="システムモニタ"
-VERSION="1.0"
+VERSION="1.0.1"
 MIN_MACOS="14.0"
 
 BUILD_DIR="build"
