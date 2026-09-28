@@ -1,0 +1,12 @@
+# ビルド成果物
+.build/
+.build-x86_64/
+build/
+*.zip
+
+# macOS
+.DS_Store
+
+# エディタ
+.swiftpm/
+.vscode/
