@@ -5,6 +5,8 @@ macOS のメニューバーに常駐して、**CPU / メモリ / GPU の使用�
 
 Dock にも Cmd+Tab にも出ません (`LSUIElement`)。
 
+**使ってみたい方へ:** [Releases](https://github.com/kid1412525/MenuMetrics/releases/latest) から `.dmg` をダウンロードできます。導入手順と初回起動のしかたもそちらに書いてあります。
+
 ## ビルドと導入
 
 Xcode は不要で、**コマンドラインツール**だけで完結します。
